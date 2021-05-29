@@ -224,7 +224,15 @@ Macro:
 		Sleep, %Delay%
 	}
 
-	Send, {Tab 5}
+	Send, {Tab}
+	Sleep, %Delay%
+	Send, {Tab}
+	Sleep, %Delay%
+	Send, {Tab}
+	Sleep, %Delay%
+	Send, {Tab}
+	Sleep, %Delay%
+	Send, {Tab}
 	Sleep, %Delay%
 	Send, {Enter}
 
