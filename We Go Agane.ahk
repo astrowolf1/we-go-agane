@@ -1,4 +1,4 @@
-#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 #SingleInstance Force
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
@@ -6,7 +6,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; ===================================================================================================
 
 ApplicationName := "We Go Agane"
-VersionString := "v1.0"
+VersionString := "v1.1"
 CoordMode, Pixel, Client
 SetTitleMatchMode, 1
 Menu, Tray, Add, Settings, Settings
@@ -128,7 +128,7 @@ Macro:
 
 	; If we are in the pause menu, save and quit, then wait
 	if (CheckForVersionText() = 0) {
-		Send, {Tab 8}
+		Send, +{Tab}
 		Sleep, %Delay%
 		Send, {Enter}
 		Sleep, %Delay%
