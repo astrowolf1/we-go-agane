@@ -4,12 +4,12 @@ AutoHotkey script for quickly resetting Minecraft Worlds
 ### Latest Download: [v1.0](https://github.com/digilog-d/we-go-agane/releases)
 
 ## Instructions
-1. Download the .exe file. Windows might say it's a virus. It's not a virus.
-2. Double click it
+1. Download and open the .zip file. Drag the .exe file to a folder of your choosing and double-click it.
+2. The first time you run the program, Windows may warn you that it is unrecognized. This is because you've downloaded it from the internet and it's not digitally signed (which would cost me a fortune), so just hit ```More info``` then ```Run Anyway```
 3. Choose your options and hit ```Start```. The window will disappear, but it is running in the background.
-4. Make sure Minecraft is NOT in fullscreen mode
-5. (Optional) Hit the "Toggle Borderless Fullscreen" hotkey, by default ```F7```. Minecraft should now be fullscreen.
-7. Hit the reset hotkey to reset at any time. If you have 0 worlds in your saves folder, you may need to create one first.
+4. Make sure Minecraft is NOT in fullscreen mode.
+5. (Optional) Hit the ```Toggle Borderless Fullscreen``` hotkey, by default ```F7```. Minecraft should now be fullscreen.
+7. Hit the reset hotkey to reset at any time. If you have no worlds in your saves folder, you may need to create one first.
 8. If you want to quit the program or change any settings, you can access it in the Windows taskbar tray. (That's the little up arrow in the bottom-right corner of your screen)
 9. Your settings are saved, so next time you open the program, you can just hit ```Start```.
 
