@@ -4,7 +4,7 @@ AutoHotkey script for quickly resetting Minecraft Worlds
 ### Latest Download: [v1.0](https://github.com/digilog-d/we-go-agane/releases)
 
 ## Instructions
-1. Download the .exe file
+1. Download the .exe file. Windows might say it's a virus. It's not a virus.
 2. Double click it
 3. Choose your options and hit ```Start```. The window will disappear, but it is running in the background.
 4. Make sure Minecraft is NOT in fullscreen mode
