@@ -1,7 +1,7 @@
 # We Go Agane
 AutoHotkey script for quickly resetting Minecraft Worlds
 
-### Latest Download: [v1.0](https://github.com/digilog-d/we-go-agane/releases)
+### Latest Download: [v1.1](https://github.com/digilog-d/we-go-agane/releases)
 
 ## Instructions
 1. Download and open the .zip file. Drag the .exe file to a folder of your choosing and double-click it.
