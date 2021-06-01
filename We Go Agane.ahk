@@ -79,7 +79,7 @@ OpenGui:
 
 	Gui, Add, GroupBox, x230 y80 w125 h105, Difficulty
 	Gui, Add, Radio, x240 y100 vDifficulty Checked%DiffP%, Peaceful
-	Gui, Add, Radio, x240 y120 HwndR1 Checked%DiffE%, Easy
+	Gui, Add, Radio, x240 y120 Checked%DiffE%, Easy
 	Gui, Add, Radio, x240 y140 Checked%DiffN%, Normal
 	Gui, Add, Radio, x240 y160 Checked%DiffH%, Hard
 	
@@ -320,7 +320,7 @@ Macro:
 		Send, {Enter}
 	}
 
-		SetTimer, TimeOut, Off
+	SetTimer, TimeOut, Off
 	return
 
 TimeOut:
